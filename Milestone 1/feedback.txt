@@ -1,0 +1,12 @@
+Milestone 1 Feedback
+
+1. One task is anaylsis of the data
+2. What is meant by analysis?
+	-> Clustering/Categorization
+	-> Not to do:
+		- Summarizartion?
+	-> Likes vs Length of episode
+	-> Categorization
+	-> How many time does annotation appeared?
+	-> Hashtag generation
+	-> Chunck episode itself (finding pattern intro, outro, middle part)
