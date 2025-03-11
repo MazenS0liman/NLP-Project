@@ -13,7 +13,7 @@ as well as taking different dialects into account, especially if we are dealing 
 spoken language. In this section, we will explore these steps in deeper detail.
 
 > [!IMPORTANT]  
-> The goal of this analysis is to preprocess Arabic language transcript dataset of famous YouTuber ElDa7ee7 to be able to perform various analysis or regression tasks such as visualizing the most common expressions used by the YouTuber (through N-Grams) or regression tasks such as predicting the number of views or likes a video will get based on the transcript.
+> The goal of this analysis is to preprocess Arabic language transcript dataset of famous YouTuber ElDa7ee7 to be able to perform various analysis or regression tasks such as visualizing the most common expressions used by the YouTuber (through N-Grams) or regression tasks such as predicting the number of views or likes a video will get based on the transcript data such as length, category, sarcasm, ..etc.
 
 ## 📌 Note
 
