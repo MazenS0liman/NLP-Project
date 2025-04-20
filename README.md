@@ -27,6 +27,6 @@ The purpose of this milestone was to implement a shallow neural network for info
 
 ## 📌 Note
 
-- Kindly check `src/model_analysis.ipynb` and `src/kaggle_notebook.ipynb` in **Milestone 2** folder for insights and how did we trained our model.
+- Kindly check `src/analysis/simple_qa_transformer_based_model_analysis.ipynb` and `src/notebook/simple_qa_transformer_based_model_notebook.ipynb` in **Milestone 2** folder for insights and how did we trained our model.
 - Please check report in **Milestone 2** folder (`NLP_Milstone_2.pdf`) 
 
