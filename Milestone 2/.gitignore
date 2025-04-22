@@ -1,3 +1,7 @@
+*.csv
+*.json
+*.bin
+*.h5
 Milestone 2/src/data/train.csv
 Milestone 2/src/data/validation.csv
 *.json
