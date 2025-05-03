@@ -1,5 +1,17 @@
+# Files
+*.venv
 *.json
 *.txt
 *.pt
 *.zip
 *.xopp
+*.conf
+*.env
+*.env.txt
+
+# Directories
+*models/
+*data/
+*papers/
+*tutorials/
+*Milestone_3/
