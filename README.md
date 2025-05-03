@@ -2,6 +2,21 @@
 
 Welcome to our **Natural Language Processing and Information Retrieval** project! This repository is organized into three milestones, each focusing on different phases of our development cycle.
 
+## 📛 Badges
+
+<div align="center">
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white" alt="PyTorch" height="40">
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FF9900.svg?logo=huggingface&logoColor=white" alt="HuggingFace" height="40">
+  </a>
+  <a href="https://github.com/hwchase17/langchain" target="_blank">
+    <img src="https://img.shields.io/badge/LangChain-CC3534.svg?logo=langchain&logoColor=white" alt="LangChain" height="40">
+  </a>
+</div>
+
+
 ## 📂 Repository Structure
 
 ```
