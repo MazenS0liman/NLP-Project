@@ -57,4 +57,4 @@ For our Gemini chatbot, we used Prompt Engineering techniques such as chain-ofth
 
 ---
 
-*Prepared by Mazen Soliman and Mohamed Shamekh* 😊
+*Prepared by Mazen Soliman* 😊
