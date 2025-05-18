@@ -14,6 +14,9 @@ Welcome to our **Natural Language Processing and Information Retrieval** project
   <a href="https://github.com/hwchase17/langchain" target="_blank">
     <img src="https://img.shields.io/badge/LangChain-CC3534.svg?logo=langchain&logoColor=white" alt="LangChain" height="40">
   </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white" alt="Scikit-learn" height="40">
+  </a>
 </div>
 
 
@@ -28,7 +31,8 @@ Welcome to our **Natural Language Processing and Information Retrieval** project
 │   ├── README.md             # Second milestone details 🚀
 │   └── NLP_Milestone_2.pdf   # Milestone 2 report 📄
 ├── Milestone_3/
-│   └── README.md             # (In progress) Third milestone coming soon ✏️
+│   ├── README.md             # Third milestone details 🚀
+│   └── NLP_Milestone_2.pdf   # Milestone 3 report 📄
 └── README.md                 # This overview (you are here) 🌟
 ```
 
@@ -46,7 +50,8 @@ Welcome to our **Natural Language Processing and Information Retrieval** project
 
 * **Milestone 3**: Ongoing development of our chatbot!
 
-  * README available once complete. Stay tuned! ⏳
+  * Try our chatbot using two different models Finetuned LlaMa-3B-Instruct and Google Gemini.
+  * 👉 [View Milestone 3 README](Milestone_3/README.md) 🔗  |  [View Report PDF](Milestone_3/NLP_Milestone_3.pdf) 📄
 
 ## 🚀 Getting Started
 
@@ -54,7 +59,6 @@ To navigate to a milestone's section, click one of the links above. Each README 
 
 * Project overview
 * Detailed approach descriptions
-* Results tables & visualizations
 
 ---
 

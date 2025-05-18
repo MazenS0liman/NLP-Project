@@ -7,11 +7,10 @@
 *.xopp
 *.conf
 *.env
-*.env.txt
 
 # Directories
 *models/
 *data/
 *papers/
 *tutorials/
-*Milestone_3/
+*datasets/

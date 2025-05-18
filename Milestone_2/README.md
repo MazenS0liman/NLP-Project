@@ -87,4 +87,4 @@ This project implements and compares three neural QA models on the SQuAD dataset
 
 ---
 
-*Prepared by Mazen Soliman & Mohamed Shamekh* 😊
+*Prepared by Mazen Soliman and Mohamed Shamekh* 😊
